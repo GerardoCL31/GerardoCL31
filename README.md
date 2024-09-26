@@ -1,3 +1,26 @@
+<div align="center">
+<img src="https://media1.tenor.com/m/i3lImBg2UEQAAAAd/scaler-create-impact.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">Hello, I study as a developer and I am from Seville. 🏡</div>  
+  
+
+- It is programmed in java 😅  
+  
+
+- It is programmed in C++ 🧑‍💻  
+  
+
+- It is programmed html 💻  
+  
+
+- know how to program in pyton 🐍  
+  
+
+<br/>  
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
